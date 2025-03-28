@@ -109,11 +109,5 @@ Feel free to fork this project, make improvements, and submit pull requests! Con
 ## 📧 Contact
 
 If you have any questions or suggestions, hit me up:  
-📩 Email: yourname@example.com  
-🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
+📩 Email: faiz48902@gmail.com
 
----
-
-## ⚖️ License
-
-This project is licensed under the [MIT License](LICENSE).
